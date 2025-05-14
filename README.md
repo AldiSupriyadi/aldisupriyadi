@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there 👋, I'm Aldi Supriyadi
 
-<!--
-**AldiSupriyadi/aldisupriyadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Informatics Engineering student and currently interning at **PT Higertech Karya Sinergi**.  
+💼 I'm also working on web development projects using ASP.NET Razor.  
+🌱 Currently learning: UI/UX Design | Git & GitHub | Data Analytics | Automation with UiPath  
+📫 Reach me at: [aldisupriyadi11@gmail.com](mailto:aldisupriyadi11@gmail.com)  
+🔗 Connect with me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Instagram](https://instagram.com/yourusername)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- ASP.NET Razor
+- HTML | CSS | JavaScript
+- Figma (UI/UX)
+- Python (Data Analysis)
+- UiPath (Automation)
+
+---
+
+### 📊 GitHub Stats
+
+![Aldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldisupriyadi&show_icons=true&theme=radical)
+
+---
+
+### 📝 Recent Projects
+
+- 💊 **Apotek Invoice Automation with UiPath**
+- 🌐 **Company Profile Website – PT. Tirta Rekayasa Konsultan**
+- 📈 **Customer Journey Funnel Analysis – E-Commerce**
+
+---
+
+Thanks for visiting! 😊
